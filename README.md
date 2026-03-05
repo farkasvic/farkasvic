@@ -46,4 +46,4 @@ I specialize in bridging the gap between complex human behavior and scalable dat
  
  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farkasvic&bg_color=F4F4F5&color=5A88A4&line=5A88A4&point=FFFFFF&area=true&hide_border=true)
  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farkasvic&show_icons=true&theme=default&hide_border=true&v=1)
+[![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkasvic)](https://github.com/farkasvic/github-readme-stats)
