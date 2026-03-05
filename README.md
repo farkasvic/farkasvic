@@ -40,8 +40,8 @@ I specialize in bridging the gap between complex human behavior and scalable dat
 * **Voxelith** — A full-stack, interactive 3D visualization tool for complex neuro-spatial data utilizing stochastic data generation (FastNoise2).
 
 ### Stats
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farkasvic&layout=compact&theme=default)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farkasvic&layout=compact&theme=default&v=1)
  
  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farkasvic&bg_color=F4F4F5&color=5A88A4&line=5A88A4&point=FFFFFF&area=true&hide_border=true)
  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farkasvic&show_icons=true&theme=default&hide_border=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farkasvic&show_icons=true&theme=default&hide_border=true&v=1)
