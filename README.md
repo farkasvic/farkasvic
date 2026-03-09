@@ -43,11 +43,9 @@ I specialize in bridging the gap between complex human behavior and scalable dat
 
 ### Featured Architecture & Projects 🚀
 
-* **Voxelith** — A full-stack, interactive 3D visualization tool for complex neuro-spatial data utilizing stochastic data generation (FastNoise2).
+* **[Voxelith](https://github.com/farkasvic/voxelith)** — A full-stack, interactive 3D visualization tool for complex neuro-spatial data utilizing stochastic data generation (FastNoise2). Volumetric anatomical matrix powered by the Allen Mouse Brain Atlas with glass-brain views, region highlighting, voxelization, and pathology simulation.
+
+* **[National Canadian Medical Datathon 2026](https://github.com/farkasvic/National_Canadian_Medical_Datathon_2026)** — Multimodal pCR prediction for breast cancer (Third Place). End-to-end deep learning pipeline predicting pathologic complete response vs partial response to Neoadjuvant Chemotherapy using clinical data and digital pathology (WSI feature extraction via OpenCV). 78% accuracy, 92% complete-response precision.
 
 ### Stats
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farkasvic&layout=compact&theme=default&v=1)
- 
  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farkasvic&bg_color=F4F4F5&color=5A88A4&line=5A88A4&point=FFFFFF&area=true&hide_border=true)
- 
-[![Victoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkasvic)](https://github.com/farkasvic/github-readme-stats)
