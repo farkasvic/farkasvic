@@ -7,7 +7,7 @@ I am a Data Scientist with a BSc in Behavioural Neuroscience, currently completi
 I specialize in bridging the gap between complex human behavior and scalable data architecture.
 
 Want to know more?
-![Check out my porfolio](https://farkasvic.github.io/)
+**[Check out my porfolio](https://farkasvic.github.io/)**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/victoria-farkas-617262262)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:victoriafarkas9@gmail.com)
