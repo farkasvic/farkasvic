@@ -44,8 +44,12 @@ I specialize in bridging the gap between complex human behavior and scalable dat
 ### Featured Architecture & Projects 🚀
 
 * **[Voxelith](https://github.com/farkasvic/voxelith)** — A full-stack, interactive 3D visualization tool for complex neuro-spatial data utilizing stochastic data generation (FastNoise2). Volumetric anatomical matrix powered by the Allen Mouse Brain Atlas with glass-brain views, region highlighting, voxelization, and pathology simulation.
+  <br><br>
+  [<img src="voxelith.png" width="400"/>](https://github.com/farkasvic/voxelith)
 
 * **[National Canadian Medical Datathon 2026](https://github.com/farkasvic/National_Canadian_Medical_Datathon_2026)** — Multimodal pCR prediction for breast cancer (Third Place). End-to-end deep learning pipeline predicting pathologic complete response vs partial response to Neoadjuvant Chemotherapy using clinical data and digital pathology (WSI feature extraction via OpenCV). 78% accuracy, 92% complete-response precision.
+  <br><br>
+  [<img src="meddata.png" width="400"/>](https://github.com/farkasvic/National_Canadian_Medical_Datathon_2026)
 
 * **[Survival of the Fittest (Model): Optimizing with Genetic Algorithms](https://farkasvic.quarto.pub/survival-of-the-fittest-(model-optimizing-with-genetic-algorithms/)** — Tutorial on evolving hyperparameters using genetic algorithms: crossover, mutation, and fitness functions applied to Random Forest tuning, with a comparison against RandomizedSearchCV.
 
