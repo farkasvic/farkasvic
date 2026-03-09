@@ -40,7 +40,7 @@ I specialize in bridging the gap between complex human behavior and scalable dat
 
 ---
 
-### Featured Architecture & Projects 🚀
+### Featured Projects
 
 - **[Voxelith](https://github.com/farkasvic/voxelith)** — A full-stack, interactive 3D visualization tool for complex neuro-spatial data utilizing stochastic data generation (FastNoise2). Volumetric anatomical matrix powered by the Allen Mouse Brain Atlas with glass-brain views, region highlighting, voxelization, and pathology simulation.
   <br><br>
