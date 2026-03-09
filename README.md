@@ -35,6 +35,10 @@ I specialize in bridging the gap between complex human behavior and scalable dat
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 
+**Currently Learning** <br>
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+
+
 ---
 
 ### Featured Architecture & Projects 🚀
